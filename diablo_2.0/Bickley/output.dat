@@ -1,0 +1,640 @@
+MPI Initialised. NPROCS:        4
+RANK,RANKY,RANKZ:        0       0       0
+RANK,RANKY,RANKZ:        1       1       0
+RANK,RANKY,RANKZ:        2       0       1
+RANK,RANKY,RANKZ:        3       1       1
+ 
+              ****** WELCOME TO DIABLO ******
+ 
+ Fourier in X
+ GX(           0 ) =   0.000000000000000E+000
+ GX(           1 ) =   0.104166666666667     
+ GX(           2 ) =   0.208333333333333     
+ GX(           3 ) =   0.312500000000000     
+ GX(           4 ) =   0.416666666666667     
+ GX(           5 ) =   0.520833333333333     
+ GX(           6 ) =   0.625000000000000     
+ GX(           7 ) =   0.729166666666667     
+ GX(           8 ) =   0.833333333333333     
+ GX(           9 ) =   0.937500000000000     
+ GX(          10 ) =    1.04166666666667     
+ GX(          11 ) =    1.14583333333333     
+ GX(          12 ) =    1.25000000000000     
+ GX(          13 ) =    1.35416666666667     
+ GX(          14 ) =    1.45833333333333     
+ GX(          15 ) =    1.56250000000000     
+ GX(          16 ) =    1.66666666666667     
+ GX(          17 ) =    1.77083333333333     
+ GX(          18 ) =    1.87500000000000     
+ GX(          19 ) =    1.97916666666667     
+ GX(          20 ) =    2.08333333333333     
+ GX(          21 ) =    2.18750000000000     
+ GX(          22 ) =    2.29166666666667     
+ GX(          23 ) =    2.39583333333333     
+ GX(          24 ) =    2.50000000000000     
+ GX(          25 ) =    2.60416666666667     
+ GX(          26 ) =    2.70833333333333     
+ GX(          27 ) =    2.81250000000000     
+ GX(          28 ) =    2.91666666666667     
+ GX(          29 ) =    3.02083333333333     
+ GX(          30 ) =    3.12500000000000     
+ GX(          31 ) =    3.22916666666667     
+ GX(          32 ) =    3.33333333333333     
+ GX(          33 ) =    3.43750000000000     
+ GX(          34 ) =    3.54166666666667     
+ GX(          35 ) =    3.64583333333333     
+ GX(          36 ) =    3.75000000000000     
+ GX(          37 ) =    3.85416666666667     
+ GX(          38 ) =    3.95833333333333     
+ GX(          39 ) =    4.06250000000000     
+ GX(          40 ) =    4.16666666666667     
+ GX(          41 ) =    4.27083333333333     
+ GX(          42 ) =    4.37500000000000     
+ GX(          43 ) =    4.47916666666667     
+ GX(          44 ) =    4.58333333333333     
+ GX(          45 ) =    4.68750000000000     
+ GX(          46 ) =    4.79166666666667     
+ GX(          47 ) =    4.89583333333333     
+ GX(          48 ) =    5.00000000000000     
+ GX(          49 ) =    5.10416666666667     
+ GX(          50 ) =    5.20833333333333     
+ GX(          51 ) =    5.31250000000000     
+ GX(          52 ) =    5.41666666666667     
+ GX(          53 ) =    5.52083333333333     
+ GX(          54 ) =    5.62500000000000     
+ GX(          55 ) =    5.72916666666667     
+ GX(          56 ) =    5.83333333333333     
+ GX(          57 ) =    5.93750000000000     
+ GX(          58 ) =    6.04166666666667     
+ GX(          59 ) =    6.14583333333333     
+ GX(          60 ) =    6.25000000000000     
+ GX(          61 ) =    6.35416666666667     
+ GX(          62 ) =    6.45833333333333     
+ GX(          63 ) =    6.56250000000000     
+ GX(          64 ) =    6.66666666666667     
+ GX(          65 ) =    6.77083333333333     
+ GX(          66 ) =    6.87500000000000     
+ GX(          67 ) =    6.97916666666667     
+ GX(          68 ) =    7.08333333333333     
+ GX(          69 ) =    7.18750000000000     
+ GX(          70 ) =    7.29166666666667     
+ GX(          71 ) =    7.39583333333333     
+ GX(          72 ) =    7.50000000000000     
+ GX(          73 ) =    7.60416666666667     
+ GX(          74 ) =    7.70833333333333     
+ GX(          75 ) =    7.81250000000000     
+ GX(          76 ) =    7.91666666666667     
+ GX(          77 ) =    8.02083333333333     
+ GX(          78 ) =    8.12500000000000     
+ GX(          79 ) =    8.22916666666667     
+ GX(          80 ) =    8.33333333333333     
+ GX(          81 ) =    8.43750000000000     
+ GX(          82 ) =    8.54166666666667     
+ GX(          83 ) =    8.64583333333333     
+ GX(          84 ) =    8.75000000000000     
+ GX(          85 ) =    8.85416666666667     
+ GX(          86 ) =    8.95833333333333     
+ GX(          87 ) =    9.06250000000000     
+ GX(          88 ) =    9.16666666666667     
+ GX(          89 ) =    9.27083333333333     
+ GX(          90 ) =    9.37500000000000     
+ GX(          91 ) =    9.47916666666667     
+ GX(          92 ) =    9.58333333333333     
+ GX(          93 ) =    9.68750000000000     
+ GX(          94 ) =    9.79166666666667     
+ GX(          95 ) =    9.89583333333333     
+ GX(          96 ) =    10.0000000000000     
+ GX(          97 ) =    10.1041666666667     
+ GX(          98 ) =    10.2083333333333     
+ GX(          99 ) =    10.3125000000000     
+ GX(         100 ) =    10.4166666666667     
+ GX(         101 ) =    10.5208333333333     
+ GX(         102 ) =    10.6250000000000     
+ GX(         103 ) =    10.7291666666667     
+ GX(         104 ) =    10.8333333333333     
+ GX(         105 ) =    10.9375000000000     
+ GX(         106 ) =    11.0416666666667     
+ GX(         107 ) =    11.1458333333333     
+ GX(         108 ) =    11.2500000000000     
+ GX(         109 ) =    11.3541666666667     
+ GX(         110 ) =    11.4583333333333     
+ GX(         111 ) =    11.5625000000000     
+ GX(         112 ) =    11.6666666666667     
+ GX(         113 ) =    11.7708333333333     
+ GX(         114 ) =    11.8750000000000     
+ GX(         115 ) =    11.9791666666667     
+ GX(         116 ) =    12.0833333333333     
+ GX(         117 ) =    12.1875000000000     
+ GX(         118 ) =    12.2916666666667     
+ GX(         119 ) =    12.3958333333333     
+ GX(         120 ) =    12.5000000000000     
+ GX(         121 ) =    12.6041666666667     
+ GX(         122 ) =    12.7083333333333     
+ GX(         123 ) =    12.8125000000000     
+ GX(         124 ) =    12.9166666666667     
+ GX(         125 ) =    13.0208333333333     
+ GX(         126 ) =    13.1250000000000     
+ GX(         127 ) =    13.2291666666667     
+ GX(         128 ) =    13.3333333333333     
+ GX(         129 ) =    13.4375000000000     
+ GX(         130 ) =    13.5416666666667     
+ GX(         131 ) =    13.6458333333333     
+ GX(         132 ) =    13.7500000000000     
+ GX(         133 ) =    13.8541666666667     
+ GX(         134 ) =    13.9583333333333     
+ GX(         135 ) =    14.0625000000000     
+ GX(         136 ) =    14.1666666666667     
+ GX(         137 ) =    14.2708333333333     
+ GX(         138 ) =    14.3750000000000     
+ GX(         139 ) =    14.4791666666667     
+ GX(         140 ) =    14.5833333333333     
+ GX(         141 ) =    14.6875000000000     
+ GX(         142 ) =    14.7916666666667     
+ GX(         143 ) =    14.8958333333333     
+ GX(         144 ) =    15.0000000000000     
+ GX(         145 ) =    15.1041666666667     
+ GX(         146 ) =    15.2083333333333     
+ GX(         147 ) =    15.3125000000000     
+ GX(         148 ) =    15.4166666666667     
+ GX(         149 ) =    15.5208333333333     
+ GX(         150 ) =    15.6250000000000     
+ GX(         151 ) =    15.7291666666667     
+ GX(         152 ) =    15.8333333333333     
+ GX(         153 ) =    15.9375000000000     
+ GX(         154 ) =    16.0416666666667     
+ GX(         155 ) =    16.1458333333333     
+ GX(         156 ) =    16.2500000000000     
+ GX(         157 ) =    16.3541666666667     
+ GX(         158 ) =    16.4583333333333     
+ GX(         159 ) =    16.5625000000000     
+ GX(         160 ) =    16.6666666666667     
+ GX(         161 ) =    16.7708333333333     
+ GX(         162 ) =    16.8750000000000     
+ GX(         163 ) =    16.9791666666667     
+ GX(         164 ) =    17.0833333333333     
+ GX(         165 ) =    17.1875000000000     
+ GX(         166 ) =    17.2916666666667     
+ GX(         167 ) =    17.3958333333333     
+ GX(         168 ) =    17.5000000000000     
+ GX(         169 ) =    17.6041666666667     
+ GX(         170 ) =    17.7083333333333     
+ GX(         171 ) =    17.8125000000000     
+ GX(         172 ) =    17.9166666666667     
+ GX(         173 ) =    18.0208333333333     
+ GX(         174 ) =    18.1250000000000     
+ GX(         175 ) =    18.2291666666667     
+ GX(         176 ) =    18.3333333333333     
+ GX(         177 ) =    18.4375000000000     
+ GX(         178 ) =    18.5416666666667     
+ GX(         179 ) =    18.6458333333333     
+ GX(         180 ) =    18.7500000000000     
+ GX(         181 ) =    18.8541666666667     
+ GX(         182 ) =    18.9583333333333     
+ GX(         183 ) =    19.0625000000000     
+ GX(         184 ) =    19.1666666666667     
+ GX(         185 ) =    19.2708333333333     
+ GX(         186 ) =    19.3750000000000     
+ GX(         187 ) =    19.4791666666667     
+ GX(         188 ) =    19.5833333333333     
+ GX(         189 ) =    19.6875000000000     
+ GX(         190 ) =    19.7916666666667     
+ GX(         191 ) =    19.8958333333333     
+ GX(         192 ) =    20.0000000000000     
+ Fourier in Z
+ GZ(           0 ) =   0.000000000000000E+000
+ GZ(           1 ) =   0.104166666666667     
+ GZ(           2 ) =   0.208333333333333     
+ GZ(           3 ) =   0.312500000000000     
+ GZ(           4 ) =   0.416666666666667     
+ GZ(           5 ) =   0.520833333333333     
+ GZ(           6 ) =   0.625000000000000     
+ GZ(           7 ) =   0.729166666666667     
+ GZ(           8 ) =   0.833333333333333     
+ GZ(           9 ) =   0.937500000000000     
+ GZ(          10 ) =    1.04166666666667     
+ GZ(          11 ) =    1.14583333333333     
+ GZ(          12 ) =    1.25000000000000     
+ GZ(          13 ) =    1.35416666666667     
+ GZ(          14 ) =    1.45833333333333     
+ GZ(          15 ) =    1.56250000000000     
+ GZ(          16 ) =    1.66666666666667     
+ GZ(          17 ) =    1.77083333333333     
+ GZ(          18 ) =    1.87500000000000     
+ GZ(          19 ) =    1.97916666666667     
+ GZ(          20 ) =    2.08333333333333     
+ GZ(          21 ) =    2.18750000000000     
+ GZ(          22 ) =    2.29166666666667     
+ GZ(          23 ) =    2.39583333333333     
+ GZ(          24 ) =    2.50000000000000     
+ GZ(          25 ) =    2.60416666666667     
+ GZ(          26 ) =    2.70833333333333     
+ GZ(          27 ) =    2.81250000000000     
+ GZ(          28 ) =    2.91666666666667     
+ GZ(          29 ) =    3.02083333333333     
+ GZ(          30 ) =    3.12500000000000     
+ GZ(          31 ) =    3.22916666666667     
+ GZ(          32 ) =    3.33333333333333     
+ GZ(          33 ) =    3.43750000000000     
+ GZ(          34 ) =    3.54166666666667     
+ GZ(          35 ) =    3.64583333333333     
+ GZ(          36 ) =    3.75000000000000     
+ GZ(          37 ) =    3.85416666666667     
+ GZ(          38 ) =    3.95833333333333     
+ GZ(          39 ) =    4.06250000000000     
+ GZ(          40 ) =    4.16666666666667     
+ GZ(          41 ) =    4.27083333333333     
+ GZ(          42 ) =    4.37500000000000     
+ GZ(          43 ) =    4.47916666666667     
+ GZ(          44 ) =    4.58333333333333     
+ GZ(          45 ) =    4.68750000000000     
+ GZ(          46 ) =    4.79166666666667     
+ GZ(          47 ) =    4.89583333333333     
+ GZ(          48 ) =    5.00000000000000     
+ GZ(          49 ) =    5.10416666666667     
+ GZ(          50 ) =    5.20833333333333     
+ GZ(          51 ) =    5.31250000000000     
+ GZ(          52 ) =    5.41666666666667     
+ GZ(          53 ) =    5.52083333333333     
+ GZ(          54 ) =    5.62500000000000     
+ GZ(          55 ) =    5.72916666666667     
+ GZ(          56 ) =    5.83333333333333     
+ GZ(          57 ) =    5.93750000000000     
+ GZ(          58 ) =    6.04166666666667     
+ GZ(          59 ) =    6.14583333333333     
+ GZ(          60 ) =    6.25000000000000     
+ GZ(          61 ) =    6.35416666666667     
+ GZ(          62 ) =    6.45833333333333     
+ GZ(          63 ) =    6.56250000000000     
+ GZ(          64 ) =    6.66666666666667     
+ GZ(          65 ) =    6.77083333333333     
+ GZ(          66 ) =    6.87500000000000     
+ GZ(          67 ) =    6.97916666666667     
+ GZ(          68 ) =    7.08333333333333     
+ GZ(          69 ) =    7.18750000000000     
+ GZ(          70 ) =    7.29166666666667     
+ GZ(          71 ) =    7.39583333333333     
+ GZ(          72 ) =    7.50000000000000     
+ GZ(          73 ) =    7.60416666666667     
+ GZ(          74 ) =    7.70833333333333     
+ GZ(          75 ) =    7.81250000000000     
+ GZ(          76 ) =    7.91666666666667     
+ GZ(          77 ) =    8.02083333333333     
+ GZ(          78 ) =    8.12500000000000     
+ GZ(          79 ) =    8.22916666666667     
+ GZ(          80 ) =    8.33333333333333     
+ GZ(          81 ) =    8.43750000000000     
+ GZ(          82 ) =    8.54166666666667     
+ GZ(          83 ) =    8.64583333333333     
+ GZ(          84 ) =    8.75000000000000     
+ GZ(          85 ) =    8.85416666666667     
+ GZ(          86 ) =    8.95833333333333     
+ GZ(          87 ) =    9.06250000000000     
+ GZ(          88 ) =    9.16666666666667     
+ GZ(          89 ) =    9.27083333333333     
+ GZ(          90 ) =    9.37500000000000     
+ GZ(          91 ) =    9.47916666666667     
+ GZ(          92 ) =    9.58333333333333     
+ GZ(          93 ) =    9.68750000000000     
+ GZ(          94 ) =    9.79166666666667     
+ GZ(          95 ) =    9.89583333333333     
+ GZ(          96 ) =    10.0000000000000     
+ GZ(          97 ) =    10.1041666666667     
+ GZ(          98 ) =    10.2083333333333     
+ GZ(          99 ) =    10.3125000000000     
+ GZ(         100 ) =    10.4166666666667     
+ GZ(         101 ) =    10.5208333333333     
+ GZ(         102 ) =    10.6250000000000     
+ GZ(         103 ) =    10.7291666666667     
+ GZ(         104 ) =    10.8333333333333     
+ GZ(         105 ) =    10.9375000000000     
+ GZ(         106 ) =    11.0416666666667     
+ GZ(         107 ) =    11.1458333333333     
+ GZ(         108 ) =    11.2500000000000     
+ GZ(         109 ) =    11.3541666666667     
+ GZ(         110 ) =    11.4583333333333     
+ GZ(         111 ) =    11.5625000000000     
+ GZ(         112 ) =    11.6666666666667     
+ GZ(         113 ) =    11.7708333333333     
+ GZ(         114 ) =    11.8750000000000     
+ GZ(         115 ) =    11.9791666666667     
+ GZ(         116 ) =    12.0833333333333     
+ GZ(         117 ) =    12.1875000000000     
+ GZ(         118 ) =    12.2916666666667     
+ GZ(         119 ) =    12.3958333333333     
+ GZ(         120 ) =    12.5000000000000     
+ GZ(         121 ) =    12.6041666666667     
+ GZ(         122 ) =    12.7083333333333     
+ GZ(         123 ) =    12.8125000000000     
+ GZ(         124 ) =    12.9166666666667     
+ GZ(         125 ) =    13.0208333333333     
+ GZ(         126 ) =    13.1250000000000     
+ GZ(         127 ) =    13.2291666666667     
+ GZ(         128 ) =    13.3333333333333     
+ GZ(         129 ) =    13.4375000000000     
+ GZ(         130 ) =    13.5416666666667     
+ GZ(         131 ) =    13.6458333333333     
+ GZ(         132 ) =    13.7500000000000     
+ GZ(         133 ) =    13.8541666666667     
+ GZ(         134 ) =    13.9583333333333     
+ GZ(         135 ) =    14.0625000000000     
+ GZ(         136 ) =    14.1666666666667     
+ GZ(         137 ) =    14.2708333333333     
+ GZ(         138 ) =    14.3750000000000     
+ GZ(         139 ) =    14.4791666666667     
+ GZ(         140 ) =    14.5833333333333     
+ GZ(         141 ) =    14.6875000000000     
+ GZ(         142 ) =    14.7916666666667     
+ GZ(         143 ) =    14.8958333333333     
+ GZ(         144 ) =    15.0000000000000     
+ GZ(         145 ) =    15.1041666666667     
+ GZ(         146 ) =    15.2083333333333     
+ GZ(         147 ) =    15.3125000000000     
+ GZ(         148 ) =    15.4166666666667     
+ GZ(         149 ) =    15.5208333333333     
+ GZ(         150 ) =    15.6250000000000     
+ GZ(         151 ) =    15.7291666666667     
+ GZ(         152 ) =    15.8333333333333     
+ GZ(         153 ) =    15.9375000000000     
+ GZ(         154 ) =    16.0416666666667     
+ GZ(         155 ) =    16.1458333333333     
+ GZ(         156 ) =    16.2500000000000     
+ GZ(         157 ) =    16.3541666666667     
+ GZ(         158 ) =    16.4583333333333     
+ GZ(         159 ) =    16.5625000000000     
+ GZ(         160 ) =    16.6666666666667     
+ GZ(         161 ) =    16.7708333333333     
+ GZ(         162 ) =    16.8750000000000     
+ GZ(         163 ) =    16.9791666666667     
+ GZ(         164 ) =    17.0833333333333     
+ GZ(         165 ) =    17.1875000000000     
+ GZ(         166 ) =    17.2916666666667     
+ GZ(         167 ) =    17.3958333333333     
+ GZ(         168 ) =    17.5000000000000     
+ GZ(         169 ) =    17.6041666666667     
+ GZ(         170 ) =    17.7083333333333     
+ GZ(         171 ) =    17.8125000000000     
+ GZ(         172 ) =    17.9166666666667     
+ GZ(         173 ) =    18.0208333333333     
+ GZ(         174 ) =    18.1250000000000     
+ GZ(         175 ) =    18.2291666666667     
+ GZ(         176 ) =    18.3333333333333     
+ GZ(         177 ) =    18.4375000000000     
+ GZ(         178 ) =    18.5416666666667     
+ GZ(         179 ) =    18.6458333333333     
+ GZ(         180 ) =    18.7500000000000     
+ GZ(         181 ) =    18.8541666666667     
+ GZ(         182 ) =    18.9583333333333     
+ GZ(         183 ) =    19.0625000000000     
+ GZ(         184 ) =    19.1666666666667     
+ GZ(         185 ) =    19.2708333333333     
+ GZ(         186 ) =    19.3750000000000     
+ GZ(         187 ) =    19.4791666666667     
+ GZ(         188 ) =    19.5833333333333     
+ GZ(         189 ) =    19.6875000000000     
+ GZ(         190 ) =    19.7916666666667     
+ GZ(         191 ) =    19.8958333333333     
+ GZ(         192 ) =    20.0000000000000     
+ Finite-difference in Y
+ USE_MPI:  T
+ *******IN INIT_CHAN_MPI *********
+ U_BC_YMIN:            1
+ U_BC_YMAX:            1
+ U_BC_YMIN:            1
+ U_BC_YMAX:            1
+ Note that this code is distributed under the GNU General Public License.
+ No warranty is expressed or implied.
+ 
+ Flavor: Basic                              
+ Movie Parameters, RANK:           2
+     Xc:    10.0000000000000       (NxMovie:           96 )
+     Yc:  -7.875893181542939E-002  (NyMovie:           64 )
+     Zc:    10.0000000000000       (NzMovie:           96 )
+ Grid size: NX =         192 , NY =          65 , NZ =         192 .
+ Scalar number:            1
+   Richardson number:    1.00000000000000     
+   Prandlt number:    1.00000000000000     
+ NU:   1.000000000000000E-003
+ BETA:    1.00000000000000     
+ Initializing FFTW package.
+ In fft: NKX,TNKZ:           64         128
+ FFTW package initialized.
+ Saving flow statistics.
+ TIME, DELTA_T:   0.000000000000000E+000  0.100000000000000     
+ UBULK:   9.998583701752484E-003
+ <U_rms>:   3.564832462365288E-002
+ <V_rms>:   1.665537972116132E-002
+ <W_rms>:   1.538155557255737E-002
+ VERBOSITY:            4
+ done save_stats chan
+ A new flowfield has been created
+ Now beginning TIME_STEP =            1
+ Now beginning TIME_STEP =            2
+ Now beginning TIME_STEP =            3
+ Now beginning TIME_STEP =            4
+ Now beginning TIME_STEP =            5
+ Now beginning TIME_STEP =            6
+ Now beginning TIME_STEP =            7
+ Now beginning TIME_STEP =            8
+ Now beginning TIME_STEP =            9
+ Now beginning TIME_STEP =           10
+ Now beginning TIME_STEP =           11
+ Now beginning TIME_STEP =           12
+ Now beginning TIME_STEP =           13
+ Now beginning TIME_STEP =           14
+ Now beginning TIME_STEP =           15
+ Now beginning TIME_STEP =           16
+ Now beginning TIME_STEP =           17
+ Now beginning TIME_STEP =           18
+ Now beginning TIME_STEP =           19
+ Now beginning TIME_STEP =           20
+ Saving flow statistics.
+ TIME, DELTA_T:   0.962452713904933       5.116133457449822E-002
+ UBULK:   9.998587673406913E-003
+ <U_rms>:   3.207687162561618E-002
+ <V_rms>:   8.345296774148326E-003
+ <W_rms>:   1.064313848192023E-002
+ VERBOSITY:            4
+ done save_stats chan
+ Now beginning TIME_STEP =           21
+ Now beginning TIME_STEP =           22
+ Now beginning TIME_STEP =           23
+ Now beginning TIME_STEP =           24
+ Now beginning TIME_STEP =           25
+ Now beginning TIME_STEP =           26
+ Now beginning TIME_STEP =           27
+ Now beginning TIME_STEP =           28
+ Now beginning TIME_STEP =           29
+ Now beginning TIME_STEP =           30
+ Now beginning TIME_STEP =           31
+ Now beginning TIME_STEP =           32
+ Now beginning TIME_STEP =           33
+ Now beginning TIME_STEP =           34
+ Now beginning TIME_STEP =           35
+ Now beginning TIME_STEP =           36
+ Now beginning TIME_STEP =           37
+ Now beginning TIME_STEP =           38
+ Now beginning TIME_STEP =           39
+ Now beginning TIME_STEP =           40
+ Saving flow statistics.
+ TIME, DELTA_T:    1.99262684268909       5.188148601631770E-002
+ UBULK:   9.998606751426728E-003
+ <U_rms>:   2.996819203403094E-002
+ <V_rms>:   4.333131991403995E-003
+ <W_rms>:   7.900849402625375E-003
+ VERBOSITY:            4
+ done save_stats chan
+ Now beginning TIME_STEP =           41
+ Now beginning TIME_STEP =           42
+ Now beginning TIME_STEP =           43
+ Now beginning TIME_STEP =           44
+ Now beginning TIME_STEP =           45
+ Now beginning TIME_STEP =           46
+ Now beginning TIME_STEP =           47
+ Now beginning TIME_STEP =           48
+ Now beginning TIME_STEP =           49
+ Now beginning TIME_STEP =           50
+ Now beginning TIME_STEP =           51
+ Now beginning TIME_STEP =           52
+ Now beginning TIME_STEP =           53
+ Now beginning TIME_STEP =           54
+ Now beginning TIME_STEP =           55
+ Now beginning TIME_STEP =           56
+ Now beginning TIME_STEP =           57
+ Now beginning TIME_STEP =           58
+ Now beginning TIME_STEP =           59
+ Now beginning TIME_STEP =           60
+ Saving flow statistics.
+ TIME, DELTA_T:    3.03494077640669       5.230988574186174E-002
+ UBULK:   9.998641339945579E-003
+ <U_rms>:   2.872912875252902E-002
+ <V_rms>:   5.453097741268663E-003
+ <W_rms>:   6.342152625196375E-003
+ VERBOSITY:            4
+ done save_stats chan
+ Now beginning TIME_STEP =           61
+ Now beginning TIME_STEP =           62
+ Now beginning TIME_STEP =           63
+ Now beginning TIME_STEP =           64
+ Now beginning TIME_STEP =           65
+ Now beginning TIME_STEP =           66
+ Now beginning TIME_STEP =           67
+ Now beginning TIME_STEP =           68
+ Now beginning TIME_STEP =           69
+ Now beginning TIME_STEP =           70
+ Now beginning TIME_STEP =           71
+ Now beginning TIME_STEP =           72
+ Now beginning TIME_STEP =           73
+ Now beginning TIME_STEP =           74
+ Now beginning TIME_STEP =           75
+ Now beginning TIME_STEP =           76
+ Now beginning TIME_STEP =           77
+ Now beginning TIME_STEP =           78
+ Now beginning TIME_STEP =           79
+ Now beginning TIME_STEP =           80
+ Saving flow statistics.
+ TIME, DELTA_T:    4.08423486606775       5.259420233868767E-002
+ UBULK:   9.998681641260235E-003
+ <U_rms>:   2.792235476963891E-002
+ <V_rms>:   4.165031600214582E-003
+ <W_rms>:   5.356638406651338E-003
+ VERBOSITY:            4
+ done save_stats chan
+ Now beginning TIME_STEP =           81
+ Now beginning TIME_STEP =           82
+ Now beginning TIME_STEP =           83
+ Now beginning TIME_STEP =           84
+ Now beginning TIME_STEP =           85
+ Now beginning TIME_STEP =           86
+ Now beginning TIME_STEP =           87
+ Now beginning TIME_STEP =           88
+ Now beginning TIME_STEP =           89
+ Now beginning TIME_STEP =           90
+ Now beginning TIME_STEP =           91
+ Now beginning TIME_STEP =           92
+ Now beginning TIME_STEP =           93
+ Now beginning TIME_STEP =           94
+ Now beginning TIME_STEP =           95
+ Now beginning TIME_STEP =           96
+ Now beginning TIME_STEP =           97
+ Now beginning TIME_STEP =           98
+ Now beginning TIME_STEP =           99
+ Now beginning TIME_STEP =          100
+ Saving flow statistics.
+ TIME, DELTA_T:    5.13851822499465       5.288716746020976E-002
+ UBULK:   9.998722829434321E-003
+ <U_rms>:   2.729980407690496E-002
+ <V_rms>:   2.754957279217873E-003
+ <W_rms>:   4.601753827392295E-003
+ VERBOSITY:            4
+ done save_stats chan
+ Now beginning TIME_STEP =          101
+ Now beginning TIME_STEP =          102
+ Now beginning TIME_STEP =          103
+ Now beginning TIME_STEP =          104
+ Now beginning TIME_STEP =          105
+ Now beginning TIME_STEP =          106
+ Now beginning TIME_STEP =          107
+ Now beginning TIME_STEP =          108
+ Now beginning TIME_STEP =          109
+ Now beginning TIME_STEP =          110
+ Now beginning TIME_STEP =          111
+ Now beginning TIME_STEP =          112
+ Now beginning TIME_STEP =          113
+ Now beginning TIME_STEP =          114
+ Now beginning TIME_STEP =          115
+ Now beginning TIME_STEP =          116
+ Now beginning TIME_STEP =          117
+ Now beginning TIME_STEP =          118
+ Now beginning TIME_STEP =          119
+ Now beginning TIME_STEP =          120
+ Saving flow statistics.
+ TIME, DELTA_T:    6.19914471627537       5.318947334367816E-002
+ UBULK:   9.998765693207073E-003
+ <U_rms>:   2.683731149203151E-002
+ <V_rms>:   3.293817900864778E-003
+ <W_rms>:   4.054821072653621E-003
+ VERBOSITY:            4
+ done save_stats chan
+ Now beginning TIME_STEP =          121
+ Now beginning TIME_STEP =          122
+ Now beginning TIME_STEP =          123
+ Now beginning TIME_STEP =          124
+ Now beginning TIME_STEP =          125
+ Now beginning TIME_STEP =          126
+ Now beginning TIME_STEP =          127
+ Now beginning TIME_STEP =          128
+ Now beginning TIME_STEP =          129
+ Now beginning TIME_STEP =          130
+ Now beginning TIME_STEP =          131
+ Now beginning TIME_STEP =          132
+ Now beginning TIME_STEP =          133
+ Now beginning TIME_STEP =          134
+ Now beginning TIME_STEP =          135
+ Now beginning TIME_STEP =          136
+ Now beginning TIME_STEP =          137
+ Now beginning TIME_STEP =          138
+ Now beginning TIME_STEP =          139
+ Now beginning TIME_STEP =          140
+ Saving flow statistics.
+ TIME, DELTA_T:    7.26522039969205       5.340299994766674E-002
+ UBULK:   9.998811425732841E-003
+ <U_rms>:   2.648462036021820E-002
+ <V_rms>:   2.716222230518574E-003
+ <W_rms>:   3.649676248288707E-003
+ VERBOSITY:            4
+ done save_stats chan
+ Now beginning TIME_STEP =          141
+ Now beginning TIME_STEP =          142
+ Now beginning TIME_STEP =          143
+ Now beginning TIME_STEP =          144
+ Now beginning TIME_STEP =          145
+ Now beginning TIME_STEP =          146
+ Now beginning TIME_STEP =          147
+ Now beginning TIME_STEP =          148
+ Now beginning TIME_STEP =          149
+ Now beginning TIME_STEP =          150
+ Now beginning TIME_STEP =          151
+ Now beginning TIME_STEP =          152
+ Now beginning TIME_STEP =          153
+ Now beginning TIME_STEP =          154
+ Now beginning TIME_STEP =          155
