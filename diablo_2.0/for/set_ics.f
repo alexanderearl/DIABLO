@@ -71,6 +71,18 @@ C Tanh shear layer
            END DO
          END DO
        END DO
+      else if (IC_TYPE.eq.4) then
+C Bickley jet
+       DO J=0,NY
+         DO K=0,NZP-1
+           DO I=0,NXM
+             U1(I,K,J)=(1/COSH(GYF(J)))**2.d0
+     &                *(1/COSH(GZ(RANKZ*NZP+K)-LZ/2.d0))**2.d0
+             U2(I,K,J)=0.d0
+             U3(I,K,J)=0.d0
+           END DO
+         END DO
+       END DO
       else
         WRITE(*,*) 'WARNING, unsupported IC_TYPE in CREATE_FLOW'
       end if
@@ -243,6 +255,17 @@ C particular problem of interest
            END DO
          END DO
        END DO
+
+        ELSE IF (IC_TYPE.eq.4) then
+! Linear profile 
+       DO K=0,NZP-1
+         DO I=0,NXM
+           DO J=1,NY
+             TH(I,K,J,N)=GYF(J)
+           END DO
+         END DO
+       END DO
+
        ELSE
         WRITE(*,*) 'WARNING, unsupported IC_TYPE in CREATE_FLOW'
         END IF
