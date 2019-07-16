@@ -638,3 +638,19 @@ RANK,RANKY,RANKZ:        3       1       1
  Now beginning TIME_STEP =          153
  Now beginning TIME_STEP =          154
  Now beginning TIME_STEP =          155
+ Now beginning TIME_STEP =          156
+ Now beginning TIME_STEP =          157
+ Now beginning TIME_STEP =          158
+ Now beginning TIME_STEP =          159
+ Now beginning TIME_STEP =          160
+ Saving flow statistics.
+ TIME, DELTA_T:    8.33468062560417       5.357234598877476E-002
+ UBULK:   9.998859537620423E-003
+ <U_rms>:   2.618351784979941E-002
+ <V_rms>:   2.018511908859746E-003
+ <W_rms>:   3.307285305358673E-003
+ VERBOSITY:            4
+ done save_stats chan
+ Now beginning TIME_STEP =          161
+ Now beginning TIME_STEP =          162
+ Now beginning TIME_STEP =          163
